@@ -8,3 +8,6 @@
 | opizero3 |ubuntu22.04 server ||
 | opizero3 |debian12 xfce ||
 | opizero3 |debian12 server ||
+
+---
+![armbian桌面壁纸](https://github.com/leeboby/armbian-images/blob/main/pictures/1.png)
